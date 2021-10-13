@@ -1,1 +1,2 @@
 ### add/move an existing subscription to a management group, so the subscription can inherit the policy, rules, etc. assigned to the management group.
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FZJQZ%2Fcmp-core-public%2Fmain%2Frelease_1%2Ftask1919%2FdelegateSubscriptionToManagementGroup.json)
