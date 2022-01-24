@@ -4,4 +4,4 @@
 
 release one
 
-[[images/AWS Integration-1.jpg]]
+[[images/HLD-Automatic-scale-updown-6.jpg]]
