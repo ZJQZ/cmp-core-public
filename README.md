@@ -4,4 +4,4 @@
 
 release one
 
-[[images/AWS%20Integration-1.jpg]]
+[[images/AWS Integration-1.jpg]]
